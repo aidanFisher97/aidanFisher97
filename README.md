@@ -8,7 +8,7 @@
  
 <div align='center'>
 
-<h1 align='center'>My Skill Set</h1>
+<h1 >My Skill Set</h1>
  
 </div>
 <table><tr><td valign="top" width="33%">
