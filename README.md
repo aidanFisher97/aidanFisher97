@@ -6,7 +6,11 @@
 
  </div>
  
-## My Skill Set  
+<div align='center'>
+
+<h1 align='center'>My Skill Set</h1>
+ 
+</div>
 <table><tr><td valign="top" width="33%">
 
 
