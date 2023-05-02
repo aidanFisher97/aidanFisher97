@@ -4,7 +4,7 @@
 
 ![readMe](https://user-images.githubusercontent.com/121323175/235568571-43a7eb0c-789a-477b-b0b3-3e6e1b25d7a3.gif)
 
- </div>
+</div>
  
 <div align='center'>
 
@@ -65,7 +65,11 @@
 <br/>  
 
 
-## Connect with me  
+<div align='center'>
+
+<h1 >Connect With Me</h1>
+ 
+</div>
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aidan-m-fisher/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -76,7 +80,11 @@
 <br/>  
 
 
-## Github Stats  
+<div align='center'>
+
+<h1 >GitHub Stats</h1>
+ 
+</div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aidanFisher97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
