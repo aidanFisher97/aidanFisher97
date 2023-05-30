@@ -79,12 +79,3 @@
 
 <br/>  
 
-
-<div align='center'>
-
-<h1>GitHub Stats</h1>
- 
-</div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aidanFisher97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
